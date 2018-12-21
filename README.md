@@ -1,7 +1,7 @@
-#Broke in Vegas Kata
+<h1>Broke in Vegas Kata</h1>
 
 <p>
-This is a new Kata I am currently working on and intend to publish on <a href="https://www.codewars.com/">Codewars</a>. To follow me on Codewars or view my other Katas click <a href="https://www.codewars.com/users/RymaTech/authored">here.</a>
+This is a new Kata I am currently working on and intend to publish on <a href="https://www.codewars.com/" target="_blank" >Codewars</a>. To follow me on Codewars or view my other Katas click <a href="https://www.codewars.com/users/RymaTech/authored" target="_blank" >here.</a>
 </p>
 
 <h2>Story</h2>
@@ -9,7 +9,7 @@ This is a new Kata I am currently working on and intend to publish on <a href="h
 
 <p>Jimmy Vegas is fulfilling a lifelong ambition by going to Las Vegas and playing on the roulette table. He believes he has the solution which can beat the roulette table every time.</p>
 
-<p>Jimmy has never seen a Red Black or Black Red pattern repeat itself more than four times; for example, Jimmy has never seen the following: ```javascript Red, Black, Red, Black, Red``` or vice versa: ```javascript Black, Red, Black, Red, Black```.</p>
+<p>Jimmy has never seen a Red Black or Black Red pattern repeat itself more than four times; for example, Jimmy has never seen the following: ```Red, Black, Red, Black, Red``` or vice versa: ```Black, Red, Black, Red, Black```.</p>
 
 If Jimmy’s above theory is correct, he knows that if he sees the Red Black or Black Red pattern repeat itself four times then the pattern is certain to break!
 

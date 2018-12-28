@@ -16,12 +16,11 @@ function redBlack () {
   let nextColorResults;
 
   while (money > 0){
-
+    spins++;
     nextColorResults = ball(4);
     switch(nextColorResults){
       case "Red,Black,Red,Black":
         money -= 1;
-        spins++;
         nextColorResults = ball(1);
           if(nextColorResults == "Red"){
             money += 2;
@@ -30,7 +29,6 @@ function redBlack () {
 
       case "Black,Red,Black,Red":
         money -= 1;
-        spins++;
         nextColorResults = ball(1);
         if(nextColorResults == "Black"){
           money += 2;

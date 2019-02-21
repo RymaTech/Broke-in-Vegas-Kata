@@ -1,6 +1,6 @@
 # Broke in Vegas Kata
 
-This is a Kata I created published on [Codewars](https://www.codewars.com/).
+This is a Kata I created and published on [Codewars](https://www.codewars.com/).
 
 ## Story 
 

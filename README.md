@@ -29,4 +29,4 @@ It can be assumed Jimmy will only bet every time the (["Red", "Black", "Red", "B
 
 If Jimmy wins on a spin he receives $2. If he loses, then he loses $1.
 
-_Made in November 2018_
+##### _Made in November 2018_
